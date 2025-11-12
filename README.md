@@ -123,4 +123,4 @@ By integrating **sales, customer, and operational analytics** into a unified Pow
 
 ## 🙏 **Acknowledgements**
 
-Special appreciation to the **Data Analytics Capstone Program** for the guidance and framework used in developing this Power BI project.  
+Special appreciation to the 10Analytics Capstone Program** for the guidance and framework used in developing this Power BI project.  
